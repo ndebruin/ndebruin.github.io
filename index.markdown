@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+
+Hi! Welcome to my engineering portfolio / general project sharing / whatever I feel like sharing.
+Enjoy!

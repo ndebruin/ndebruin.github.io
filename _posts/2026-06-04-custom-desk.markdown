@@ -81,4 +81,4 @@ and a shelf below the desk in the back corner for a mini PC to act as a server.
 
 I'm overall really happy with the result though,
 and spent a whole lot less than I would have for a similarly sized or quality desk.
-Through some (scary) testing, I've found I can sit on the top shelf without much bending at all!
+<!-- Through some (scary) testing, I've found I can sit on the top shelf without much bending at all! -->
